@@ -1,0 +1,35 @@
+FBSD_1.0 {
+global:
+	dladdr;
+	dlclose;
+	dlerror;
+	dlfunc;
+	dlopen;
+	dlsym;
+	dlvsym;
+	dlinfo;
+	dl_iterate_phdr;
+};
+
+FBSD_1.1 {
+} FBSD_1.0;
+
+FBSD_1.2 {
+} FBSD_1.1;
+
+FBSD_1.3 {
+global:
+	fdlopen;
+} FBSD_1.2;
+
+FBSD_1.4 {
+} FBSD_1.3;
+
+FBSD_1.5 {
+} FBSD_1.4;
+
+FBSDprivate_1.0 {
+local:
+	*;
+} FBSD_1.5;
+

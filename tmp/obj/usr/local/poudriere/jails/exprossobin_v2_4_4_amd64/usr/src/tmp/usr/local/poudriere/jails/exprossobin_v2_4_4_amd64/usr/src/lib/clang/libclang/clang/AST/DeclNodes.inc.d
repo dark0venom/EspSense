@@ -1,0 +1,1 @@
+clang/AST/DeclNodes.inc:

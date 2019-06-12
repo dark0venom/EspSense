@@ -1,0 +1,14 @@
+krb_err.po: krb_err.c \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/include/stddef.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/include/sys/cdefs.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/include/sys/_null.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/include/sys/_types.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/include/machine/_types.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/include/x86/_types.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/include/machine/_limits.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/include/x86/_limits.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/include/com_err.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/include/com_right.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/include/stdarg.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/include/x86/stdarg.h \
+  krb_err.h

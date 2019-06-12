@@ -1,0 +1,34 @@
+#define AUTH_METHOD 257
+#define ENABLE 258
+#define HEADER_DIGEST 259
+#define DATA_DIGEST 260
+#define TARGET_NAME 261
+#define TARGET_ADDRESS 262
+#define INITIATOR_NAME 263
+#define INITIATOR_ADDRESS 264
+#define INITIATOR_ALIAS 265
+#define USER 266
+#define SECRET 267
+#define MUTUAL_USER 268
+#define MUTUAL_SECRET 269
+#define SEMICOLON 270
+#define SESSION_TYPE 271
+#define PROTOCOL 272
+#define OFFLOAD 273
+#define IGNORED 274
+#define EQUALS 275
+#define OPENING_BRACKET 276
+#define CLOSING_BRACKET 277
+#define STR 278
+#ifdef YYSTYPE
+#undef  YYSTYPE_IS_DECLARED
+#define YYSTYPE_IS_DECLARED 1
+#endif
+#ifndef YYSTYPE_IS_DECLARED
+#define YYSTYPE_IS_DECLARED 1
+typedef union
+{
+	char *str;
+} YYSTYPE;
+#endif /* !YYSTYPE_IS_DECLARED */
+extern YYSTYPE yylval;

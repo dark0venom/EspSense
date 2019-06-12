@@ -1,0 +1,36 @@
+u8_textprep.o: \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/sys/cddl/contrib/opensolaris/common/unicode/u8_textprep.c \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/sys/cddl/compat/opensolaris/sys/types.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/include/sys/stdint.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/include/sys/cdefs.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/include/sys/_types.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/include/machine/_types.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/include/x86/_types.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/include/machine/_limits.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/include/x86/_limits.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/include/machine/_stdint.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/include/x86/_stdint.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/include/sys/_stdint.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/include/sys/types.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/include/machine/endian.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/include/x86/endian.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/include/sys/_pthreadtypes.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/include/sys/select.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/include/sys/_sigset.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/include/sys/_timeval.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/include/sys/timespec.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/include/sys/_timespec.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/cddl/compat/opensolaris/include/strings.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/include/strings.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/include/xlocale/_strings.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/include/string.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/include/sys/_null.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/include/xlocale/_string.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/sys/cddl/compat/opensolaris/sys/byteorder.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/include/netinet/in.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/include/sys/_sockaddr_storage.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/include/netinet6/in6.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/include/sys/errno.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/sys/cddl/contrib/opensolaris/uts/common/sys/u8_textprep.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/sys/cddl/contrib/opensolaris/uts/common/sys/isa_defs.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/sys/cddl/contrib/opensolaris/uts/common/sys/u8_textprep_data.h

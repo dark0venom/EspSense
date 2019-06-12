@@ -1,0 +1,45 @@
+FBSD_1.0 {
+};
+
+FBSD_1.1 {
+global:
+	rpc_gss_seccreate;
+	rpc_gss_set_defaults;
+	rpc_gss_max_data_length;
+	rpc_gss_get_error;
+	rpc_gss_mesh_to_oid;
+	rpc_gss_oid_to_mech;
+	rpc_gss_qop_to_num;
+	rpc_gss_get_mechanisms;
+	rpc_gss_get_mech_info;
+	rpc_gss_get_versions;
+	rpc_gss_is_installed;
+	rpc_gss_set_svc_name;
+	rpc_gss_getcred;
+	rpc_gss_set_callback;
+	rpc_gss_get_principal_name;
+	rpc_gss_svc_max_data_length;
+} FBSD_1.0;
+
+FBSD_1.2 {
+} FBSD_1.1;
+
+FBSD_1.3 {
+} FBSD_1.2;
+
+FBSD_1.4 {
+} FBSD_1.3;
+
+FBSD_1.5 {
+} FBSD_1.4;
+
+FBSDprivate_1.0 {
+global:
+	__rpc_gss_unwrap;
+	__rpc_gss_unwrap_stub;
+	__rpc_gss_wrap;
+	__rpc_gss_wrap_stub;
+local:
+	*;
+} FBSD_1.5;
+

@@ -1,0 +1,35 @@
+ldver.o: \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/gnu/usr.bin/binutils/ld/../../../../contrib/binutils/ld/ldver.c \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/gnu/usr.bin/binutils/ld/../../../../contrib/binutils/ld/sysdep.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/gnu/usr.bin/binutils/ld/config.h \
+  /usr/include/stdio.h /usr/include/sys/cdefs.h /usr/include/sys/_null.h \
+  /usr/include/sys/_types.h /usr/include/machine/_types.h \
+  /usr/include/x86/_types.h /usr/include/machine/_limits.h \
+  /usr/include/x86/_limits.h /usr/include/sys/types.h \
+  /usr/include/machine/endian.h /usr/include/x86/endian.h \
+  /usr/include/sys/_pthreadtypes.h /usr/include/sys/_stdint.h \
+  /usr/include/sys/select.h /usr/include/sys/_sigset.h \
+  /usr/include/sys/_timeval.h /usr/include/sys/timespec.h \
+  /usr/include/sys/_timespec.h /usr/include/sys/stat.h \
+  /usr/include/sys/time.h /usr/include/time.h \
+  /usr/include/xlocale/_time.h /usr/include/string.h \
+  /usr/include/strings.h /usr/include/xlocale/_strings.h \
+  /usr/include/xlocale/_string.h /usr/include/stdlib.h \
+  /usr/include/unistd.h /usr/include/sys/unistd.h /usr/include/limits.h \
+  /usr/include/sys/limits.h /usr/include/sys/syslimits.h \
+  /usr/include/sys/param.h /usr/include/sys/signal.h \
+  /usr/include/machine/signal.h /usr/include/x86/signal.h \
+  /usr/include/machine/param.h /usr/include/machine/_align.h \
+  /usr/include/x86/_align.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/gnu/usr.bin/binutils/ld/../../../../contrib/binutils/include/fopen-same.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/gnu/usr.bin/binutils/ld/../libbfd/bfd.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/gnu/usr.bin/binutils/ld/../../../../contrib/binutils/include/ansidecl.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/gnu/usr.bin/binutils/ld/../../../../contrib/binutils/include/symcat.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/gnu/usr.bin/binutils/ld/../libbfd/bfdver.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/gnu/usr.bin/binutils/ld/../../../../contrib/binutils/ld/ld.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/gnu/usr.bin/binutils/ld/../../../../contrib/binutils/ld/ldver.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/gnu/usr.bin/binutils/ld/../../../../contrib/binutils/ld/ldexp.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/gnu/usr.bin/binutils/ld/../../../../contrib/binutils/ld/ldlang.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/gnu/usr.bin/binutils/ld/../../../../contrib/binutils/ld/ldfile.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/gnu/usr.bin/binutils/ld/../../../../contrib/binutils/ld/ldemul.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/gnu/usr.bin/binutils/ld/../../../../contrib/binutils/ld/ldmain.h

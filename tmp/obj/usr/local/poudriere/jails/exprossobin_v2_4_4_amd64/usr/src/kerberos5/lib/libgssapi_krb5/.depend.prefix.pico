@@ -1,0 +1,2 @@
+prefix.pico: \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/kerberos5/lib/libgssapi_krb5/prefix.c

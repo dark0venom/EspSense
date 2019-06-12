@@ -1,0 +1,5 @@
+sanitizer_common/sanitizer_allocator_checks.pico: \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/contrib/compiler-rt/lib/sanitizer_common/sanitizer_allocator_checks.cc \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/contrib/compiler-rt/lib/sanitizer_common/sanitizer_errno.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/contrib/compiler-rt/lib/sanitizer_common/sanitizer_errno_codes.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/contrib/compiler-rt/lib/sanitizer_common/sanitizer_platform.h

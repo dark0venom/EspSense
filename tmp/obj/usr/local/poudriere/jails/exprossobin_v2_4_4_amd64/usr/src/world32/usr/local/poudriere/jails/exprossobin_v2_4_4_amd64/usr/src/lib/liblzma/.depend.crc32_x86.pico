@@ -1,0 +1,2 @@
+crc32_x86.pico: \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/contrib/xz/src/liblzma/check/crc32_x86.S

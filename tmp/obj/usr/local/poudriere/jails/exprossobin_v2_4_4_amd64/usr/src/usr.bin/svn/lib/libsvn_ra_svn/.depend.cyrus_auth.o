@@ -1,0 +1,3 @@
+cyrus_auth.o: \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/contrib/subversion/subversion/libsvn_ra_svn/cyrus_auth.c \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/usr.bin/svn/lib/libsvn_ra_svn/../../svn_private_config.h

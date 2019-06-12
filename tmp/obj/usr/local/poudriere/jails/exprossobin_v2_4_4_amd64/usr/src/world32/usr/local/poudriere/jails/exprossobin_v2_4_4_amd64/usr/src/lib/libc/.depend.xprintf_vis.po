@@ -1,0 +1,36 @@
+xprintf_vis.po: \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/lib/libc/stdio/xprintf_vis.c \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/lib/libc/include/namespace.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/include/stdio.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/lib32/usr/include/sys/cdefs.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/lib32/usr/include/sys/_null.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/lib32/usr/include/sys/_types.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/lib32/usr/include/machine/_types.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/lib32/usr/include/x86/_types.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/lib32/usr/include/machine/_limits.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/lib32/usr/include/x86/_limits.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/include/string.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/include/strings.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/include/xlocale/_strings.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/include/xlocale/_string.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/include/stdlib.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/include/wchar.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/include/_ctype.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/include/runetype.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/include/xlocale/_wchar.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/contrib/libc-vis/vis.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/lib32/usr/include/sys/types.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/lib32/usr/include/machine/endian.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/lib32/usr/include/x86/endian.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/lib32/usr/include/sys/_pthreadtypes.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/lib32/usr/include/sys/_stdint.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/lib32/usr/include/sys/select.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/lib32/usr/include/sys/_sigset.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/lib32/usr/include/sys/_timeval.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/lib32/usr/include/sys/timespec.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/lib32/usr/include/sys/_timespec.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/include/assert.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/lib32/usr/include/sys/time.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/include/time.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/include/xlocale/_time.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/include/printf.h

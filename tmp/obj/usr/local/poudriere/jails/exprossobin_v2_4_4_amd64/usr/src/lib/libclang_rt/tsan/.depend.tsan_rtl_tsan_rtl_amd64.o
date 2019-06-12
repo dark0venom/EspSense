@@ -1,0 +1,3 @@
+tsan/rtl/tsan_rtl_amd64.o: \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/contrib/compiler-rt/lib/tsan/rtl/tsan_rtl_amd64.S \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/contrib/compiler-rt/lib/sanitizer_common/sanitizer_asm.h

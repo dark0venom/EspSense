@@ -1,0 +1,115 @@
+Support/Threading.o: \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/contrib/llvm/lib/Support/Threading.cpp \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/contrib/llvm/include/llvm/Support/Threading.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/contrib/llvm/include/llvm/ADT/SmallVector.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/contrib/llvm/include/llvm/ADT/iterator_range.h \
+  /usr/include/c++/v1/iterator /usr/include/c++/v1/__config \
+  /usr/include/sys/endian.h /usr/include/sys/cdefs.h \
+  /usr/include/sys/_types.h /usr/include/machine/_types.h \
+  /usr/include/x86/_types.h /usr/include/machine/_limits.h \
+  /usr/include/x86/_limits.h /usr/include/machine/endian.h \
+  /usr/include/x86/endian.h /usr/include/c++/v1/iosfwd \
+  /usr/include/c++/v1/wchar.h /usr/include/wchar.h \
+  /usr/include/sys/_null.h /usr/include/_ctype.h /usr/include/runetype.h \
+  /usr/include/xlocale/_wchar.h /usr/include/c++/v1/__functional_base \
+  /usr/include/c++/v1/type_traits /usr/include/c++/v1/cstddef \
+  /usr/include/stddef.h /usr/include/c++/v1/__nullptr \
+  /usr/include/c++/v1/typeinfo /usr/include/c++/v1/exception \
+  /usr/include/c++/v1/cstdlib /usr/include/c++/v1/stdlib.h \
+  /usr/include/stdlib.h /usr/include/c++/v1/cstdint \
+  /usr/include/c++/v1/stdint.h /usr/include/stdint.h \
+  /usr/include/machine/_stdint.h /usr/include/x86/_stdint.h \
+  /usr/include/sys/_stdint.h /usr/include/c++/v1/new \
+  /usr/include/c++/v1/utility /usr/include/c++/v1/__tuple \
+  /usr/include/c++/v1/initializer_list /usr/include/c++/v1/cstring \
+  /usr/include/c++/v1/string.h /usr/include/string.h \
+  /usr/include/strings.h /usr/include/xlocale/_strings.h \
+  /usr/include/xlocale/_string.h /usr/include/c++/v1/__debug \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/contrib/llvm/include/llvm/Support/AlignOf.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/contrib/llvm/include/llvm/Support/Compiler.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/lib/clang/include/llvm/Config/llvm-config.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/contrib/llvm/include/llvm/Support/MathExtras.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/contrib/llvm/include/llvm/Support/SwapByteOrder.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/lib/clang/include/llvm/Support/DataTypes.h \
+  /usr/include/c++/v1/cmath /usr/include/c++/v1/math.h \
+  /usr/include/math.h /usr/include/c++/v1/limits \
+  /usr/include/c++/v1/__undef_macros /usr/include/c++/v1/cinttypes \
+  /usr/include/c++/v1/inttypes.h /usr/include/inttypes.h \
+  /usr/include/machine/_inttypes.h /usr/include/x86/_inttypes.h \
+  /usr/include/sys/types.h /usr/include/sys/_pthreadtypes.h \
+  /usr/include/sys/select.h /usr/include/sys/_sigset.h \
+  /usr/include/sys/_timeval.h /usr/include/sys/timespec.h \
+  /usr/include/sys/_timespec.h /usr/include/c++/v1/algorithm \
+  /usr/include/c++/v1/memory /usr/include/c++/v1/tuple \
+  /usr/include/c++/v1/stdexcept /usr/include/c++/v1/cassert \
+  /usr/include/assert.h /usr/include/c++/v1/atomic \
+  /usr/include/c++/v1/climits /usr/include/c++/v1/limits.h \
+  /usr/include/limits.h /usr/include/sys/limits.h \
+  /usr/include/sys/syslimits.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/contrib/llvm/include/llvm/Support/type_traits.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/contrib/llvm/include/llvm/Support/ErrorHandling.h \
+  /usr/include/c++/v1/string /usr/include/c++/v1/string_view \
+  /usr/include/c++/v1/__string /usr/include/c++/v1/cstdio \
+  /usr/include/c++/v1/stdio.h /usr/include/stdio.h \
+  /usr/include/c++/v1/cwchar /usr/include/c++/v1/cwctype \
+  /usr/include/c++/v1/cctype /usr/include/c++/v1/ctype.h \
+  /usr/include/ctype.h /usr/include/xlocale/_ctype.h \
+  /usr/include/c++/v1/wctype.h /usr/include/wctype.h \
+  /usr/include/c++/v1/ciso646 /usr/include/c++/v1/functional \
+  /usr/include/c++/v1/mutex /usr/include/c++/v1/__mutex_base \
+  /usr/include/c++/v1/chrono /usr/include/c++/v1/ctime \
+  /usr/include/time.h /usr/include/xlocale/_time.h \
+  /usr/include/c++/v1/ratio /usr/include/c++/v1/system_error \
+  /usr/include/c++/v1/cerrno /usr/include/c++/v1/errno.h \
+  /usr/include/errno.h /usr/include/c++/v1/__threading_support \
+  /usr/include/pthread.h /usr/include/sched.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/lib/clang/include/llvm/Config/config.h \
+  /usr/include/osreldate.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/contrib/llvm/include/llvm/Support/Host.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/contrib/llvm/include/llvm/ADT/StringMap.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/contrib/llvm/include/llvm/ADT/StringRef.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/contrib/llvm/include/llvm/ADT/STLExtras.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/contrib/llvm/include/llvm/ADT/Optional.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/contrib/llvm/include/llvm/ADT/None.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/contrib/llvm/include/llvm/ADT/iterator.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/contrib/llvm/include/llvm/Support/Allocator.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/contrib/llvm/include/llvm/Support/PointerLikeTypeTraits.h \
+  /usr/include/c++/v1/thread \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/contrib/llvm/lib/Support/Unix/Threading.inc \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/contrib/llvm/include/llvm/ADT/SmallString.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/contrib/llvm/include/llvm/ADT/Twine.h \
+  /usr/include/pthread_np.h /usr/include/sys/param.h \
+  /usr/include/sys/signal.h /usr/include/machine/signal.h \
+  /usr/include/x86/signal.h /usr/include/machine/param.h \
+  /usr/include/machine/_align.h /usr/include/x86/_align.h \
+  /usr/include/sys/cpuset.h /usr/include/sys/_cpuset.h \
+  /usr/include/sys/_bitset.h /usr/include/sys/bitset.h \
+  /usr/include/sys/sysctl.h /usr/include/sys/user.h \
+  /usr/include/machine/pcb.h /usr/include/machine/fpu.h \
+  /usr/include/x86/fpu.h /usr/include/machine/segments.h \
+  /usr/include/x86/segments.h /usr/include/sys/time.h \
+  /usr/include/sys/resource.h /usr/include/sys/ucred.h \
+  /usr/include/bsm/audit.h /usr/include/sys/uio.h \
+  /usr/include/sys/_iovec.h /usr/include/sys/_uio.h \
+  /usr/include/sys/queue.h /usr/include/sys/_lock.h \
+  /usr/include/sys/_mutex.h /usr/include/sys/proc.h \
+  /usr/include/sys/callout.h /usr/include/sys/_callout.h \
+  /usr/include/sys/event.h /usr/include/sys/condvar.h \
+  /usr/include/sys/filedesc.h /usr/include/sys/caprights.h \
+  /usr/include/sys/lock.h /usr/include/sys/ktr_class.h \
+  /usr/include/sys/priority.h /usr/include/sys/seq.h \
+  /usr/include/sys/sx.h /usr/include/sys/_sx.h \
+  /usr/include/sys/lock_profile.h /usr/include/sys/osd.h \
+  /usr/include/sys/rtprio.h /usr/include/sys/runq.h \
+  /usr/include/machine/runq.h /usr/include/sys/sigio.h \
+  /usr/include/sys/signalvar.h /usr/include/sys/ucontext.h \
+  /usr/include/machine/ucontext.h /usr/include/x86/ucontext.h \
+  /usr/include/sys/_ucontext.h /usr/include/sys/_domainset.h \
+  /usr/include/machine/proc.h /usr/include/vm/vm.h \
+  /usr/include/machine/vm.h /usr/include/machine/specialreg.h \
+  /usr/include/x86/specialreg.h /usr/include/vm/vm_param.h \
+  /usr/include/machine/vmparam.h /usr/include/vm/pmap.h \
+  /usr/include/machine/pmap.h /usr/include/vm/_vm_radix.h \
+  /usr/include/vm/vm_map.h /usr/include/sys/resourcevar.h \
+  /usr/include/sys/socket.h /usr/include/sys/_sockaddr_storage.h \
+  /usr/include/unistd.h /usr/include/sys/unistd.h

@@ -1,0 +1,4 @@
+Sema/SemaConsumer.o: \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/contrib/llvm/tools/clang/lib/Sema/SemaConsumer.cpp \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/contrib/llvm/tools/clang/include/clang/Sema/SemaConsumer.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/contrib/llvm/tools/clang/include/clang/AST/ASTConsumer.h

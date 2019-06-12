@@ -1,0 +1,4 @@
+ops_lustre.o: \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/usr.sbin/amd/amd/../../../contrib/amd/amd/ops_lustre.c \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/usr.sbin/amd/include/config.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/usr.sbin/amd/include/config_local.h

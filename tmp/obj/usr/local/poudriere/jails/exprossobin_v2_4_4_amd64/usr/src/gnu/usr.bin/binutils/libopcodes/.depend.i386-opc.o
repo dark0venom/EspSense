@@ -1,0 +1,26 @@
+i386-opc.o: \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/gnu/usr.bin/binutils/libopcodes/../../../../contrib/binutils/opcodes/i386-opc.c \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/gnu/usr.bin/binutils/libopcodes/../../../../contrib/binutils/opcodes/sysdep.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/gnu/usr.bin/binutils/libopcodes/config.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/gnu/usr.bin/binutils/libopcodes/../../../../contrib/binutils/include/ansidecl.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/include/stdlib.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/include/sys/cdefs.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/include/sys/_null.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/include/sys/_types.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/include/machine/_types.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/include/x86/_types.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/include/machine/_limits.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/include/x86/_limits.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/include/string.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/include/strings.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/include/xlocale/_strings.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/include/xlocale/_string.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/gnu/usr.bin/binutils/libopcodes/../../../../contrib/binutils/include/libiberty.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/include/stddef.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/include/stdarg.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/include/x86/stdarg.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/include/stdio.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/include/libgen.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/gnu/usr.bin/binutils/libopcodes/../../../../contrib/binutils/opcodes/i386-opc.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/gnu/usr.bin/binutils/libopcodes/../../../../contrib/binutils/include/opcode/i386.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/gnu/usr.bin/binutils/libopcodes/../../../../contrib/binutils/opcodes/i386-tbl.h

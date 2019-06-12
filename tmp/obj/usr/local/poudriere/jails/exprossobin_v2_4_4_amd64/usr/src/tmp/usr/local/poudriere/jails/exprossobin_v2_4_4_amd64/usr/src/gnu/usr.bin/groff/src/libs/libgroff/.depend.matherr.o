@@ -1,0 +1,7 @@
+matherr.o: \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/gnu/usr.bin/groff/src/libs/libgroff/../../../../../../contrib/groff/src/libs/libgroff/matherr.c \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/gnu/usr.bin/groff/src/libs/libgroff/../../../src/include/config.h \
+  /usr/include/math.h /usr/include/sys/cdefs.h /usr/include/sys/_types.h \
+  /usr/include/machine/_types.h /usr/include/x86/_types.h \
+  /usr/include/machine/_limits.h /usr/include/x86/_limits.h \
+  /usr/include/errno.h

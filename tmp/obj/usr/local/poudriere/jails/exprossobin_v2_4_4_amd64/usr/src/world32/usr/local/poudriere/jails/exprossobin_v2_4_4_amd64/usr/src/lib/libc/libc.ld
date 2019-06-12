@@ -1,0 +1,2 @@
+/* $FreeBSD$ */
+GROUP ( /usr/lib32/libc.so.7 /usr/lib32/libc_nonshared.a /usr/lib32/libssp_nonshared.a )

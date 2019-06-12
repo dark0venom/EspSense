@@ -1,0 +1,2 @@
+x86_64-mont.pico: \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/secure/lib/libcrypto/amd64/x86_64-mont.S

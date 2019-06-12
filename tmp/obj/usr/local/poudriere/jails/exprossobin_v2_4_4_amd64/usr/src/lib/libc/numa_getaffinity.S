@@ -1,0 +1,4 @@
+#include "compat.h"
+#include "SYS.h"
+RSYSCALL(numa_getaffinity)
+	.section .note.GNU-stack,"",%progbits

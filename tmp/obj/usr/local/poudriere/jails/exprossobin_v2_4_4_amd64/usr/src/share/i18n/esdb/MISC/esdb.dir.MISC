@@ -1,0 +1,20 @@
+# MISC
+ATARIST                         MISC/ATARIST.esdb
+C99                             MISC/C99.esdb
+CTEXT                           MISC/CTEXT.esdb
+HP-ROMAN8                       MISC/HP-ROMAN8.esdb
+HZ                              MISC/HZ.esdb
+HZ8                             MISC/HZ8.esdb
+ISO-IR-165                      MISC/ISO-IR-165.esdb
+JAVA                            MISC/JAVA.esdb
+JISX0201-KANA                   MISC/JISX0201-KANA.esdb
+JISX0208:1990                   MISC/JISX0208@1990.esdb
+JOHAB                           MISC/JOHAB.esdb
+MULELAO-1                       MISC/MULELAO-1.esdb
+NEXTSTEP                        MISC/NEXTSTEP.esdb
+RISCOS-LATIN1                   MISC/RISCOS-LATIN1.esdb
+Shift_JIS                       MISC/Shift_JIS.esdb
+Shift_JIS-2004                  MISC/Shift_JIS-2004.esdb
+TDS565                          MISC/TDS565.esdb
+ZW                              MISC/ZW.esdb
+

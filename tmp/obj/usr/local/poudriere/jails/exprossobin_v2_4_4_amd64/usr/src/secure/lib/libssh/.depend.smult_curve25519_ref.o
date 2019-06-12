@@ -1,0 +1,4 @@
+smult_curve25519_ref.o: \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/crypto/openssh/smult_curve25519_ref.c \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/crypto/openssh/ssh_namespace.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/crypto/openssh/krb5_config.h

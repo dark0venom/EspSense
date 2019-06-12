@@ -1,0 +1,8 @@
+Basic/OperatorPrecedence.o: \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/contrib/llvm/tools/clang/lib/Basic/OperatorPrecedence.cpp \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/contrib/llvm/tools/clang/include/clang/Basic/OperatorPrecedence.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/contrib/llvm/tools/clang/include/clang/Basic/TokenKinds.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/contrib/llvm/include/llvm/Support/Compiler.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/lib/clang/include/llvm/Config/llvm-config.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/contrib/llvm/tools/clang/include/clang/Basic/TokenKinds.def \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/contrib/llvm/tools/clang/include/clang/Basic/OpenCLImageTypes.def

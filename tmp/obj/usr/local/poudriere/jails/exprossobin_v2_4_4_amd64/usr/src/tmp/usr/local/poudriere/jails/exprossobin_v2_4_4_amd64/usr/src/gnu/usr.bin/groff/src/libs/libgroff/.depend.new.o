@@ -1,0 +1,30 @@
+new.o: \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/gnu/usr.bin/groff/src/libs/libgroff/../../../../../../contrib/groff/src/libs/libgroff/new.cpp \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/gnu/usr.bin/groff/src/libs/libgroff/../../../../../../contrib/groff/src/include/lib.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/gnu/usr.bin/groff/src/libs/libgroff/../../../src/include/config.h \
+  /usr/include/getopt.h /usr/include/sys/cdefs.h \
+  /usr/include/c++/v1/locale.h /usr/include/c++/v1/__config \
+  /usr/include/sys/endian.h /usr/include/sys/_types.h \
+  /usr/include/machine/_types.h /usr/include/x86/_types.h \
+  /usr/include/machine/_limits.h /usr/include/x86/_limits.h \
+  /usr/include/machine/endian.h /usr/include/x86/endian.h \
+  /usr/include/locale.h /usr/include/sys/_null.h \
+  /usr/include/xlocale/_locale.h /usr/include/c++/v1/stdio.h \
+  /usr/include/stdio.h /usr/include/c++/v1/string.h \
+  /usr/include/string.h /usr/include/strings.h \
+  /usr/include/xlocale/_strings.h /usr/include/xlocale/_string.h \
+  /usr/include/stdarg.h /usr/include/x86/stdarg.h \
+  /usr/include/sys/_stdarg.h /usr/include/c++/v1/limits.h \
+  /usr/include/limits.h /usr/include/sys/limits.h \
+  /usr/include/sys/syslimits.h /usr/include/c++/v1/stddef.h \
+  /usr/include/stddef.h /usr/include/c++/v1/__nullptr \
+  /usr/include/c++/v1/stdlib.h /usr/include/stdlib.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/gnu/usr.bin/groff/src/libs/libgroff/../../../../../../contrib/groff/src/include/posix.h \
+  /usr/include/sys/types.h /usr/include/sys/_pthreadtypes.h \
+  /usr/include/sys/_stdint.h /usr/include/sys/select.h \
+  /usr/include/sys/_sigset.h /usr/include/sys/_timeval.h \
+  /usr/include/sys/timespec.h /usr/include/sys/_timespec.h \
+  /usr/include/sys/stat.h /usr/include/sys/time.h /usr/include/time.h \
+  /usr/include/xlocale/_time.h /usr/include/fcntl.h \
+  /usr/include/unistd.h /usr/include/sys/unistd.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/gnu/usr.bin/groff/src/libs/libgroff/../../../../../../contrib/groff/src/include/nonposix.h

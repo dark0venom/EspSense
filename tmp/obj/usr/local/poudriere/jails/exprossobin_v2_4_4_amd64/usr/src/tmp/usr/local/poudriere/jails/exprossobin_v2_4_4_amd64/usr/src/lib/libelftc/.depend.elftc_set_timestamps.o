@@ -1,0 +1,20 @@
+elftc_set_timestamps.o: \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/contrib/elftoolchain/libelftc/elftc_set_timestamps.c \
+  /usr/include/sys/types.h /usr/include/sys/cdefs.h \
+  /usr/include/machine/endian.h /usr/include/x86/endian.h \
+  /usr/include/sys/_types.h /usr/include/machine/_types.h \
+  /usr/include/x86/_types.h /usr/include/machine/_limits.h \
+  /usr/include/x86/_limits.h /usr/include/sys/_pthreadtypes.h \
+  /usr/include/sys/_stdint.h /usr/include/sys/select.h \
+  /usr/include/sys/_sigset.h /usr/include/sys/_timeval.h \
+  /usr/include/sys/timespec.h /usr/include/sys/_timespec.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/contrib/elftoolchain/libelftc/libelftc.h \
+  /usr/include/sys/stat.h /usr/include/sys/time.h /usr/include/time.h \
+  /usr/include/sys/_null.h /usr/include/xlocale/_time.h \
+  /usr/include/libelf.h /usr/include/sys/elf32.h sys/elf_common.h \
+  /usr/include/sys/elf64.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/contrib/elftoolchain/libelftc/_libelftc.h \
+  /usr/include/stdbool.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/contrib/elftoolchain/common/_elftc.h \
+  /usr/include/stdlib.h /usr/include/osreldate.h \
+  /usr/include/sys/endian.h

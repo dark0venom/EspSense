@@ -1,0 +1,28 @@
+limit.o: \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/gnu/usr.bin/groff/src/preproc/eqn/../../../../../../contrib/groff/src/preproc/eqn/limit.cpp \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/gnu/usr.bin/groff/src/preproc/eqn/../../../../../../contrib/groff/src/preproc/eqn/eqn.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/gnu/usr.bin/groff/src/preproc/eqn/../../../../../../contrib/groff/src/include/lib.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/gnu/usr.bin/groff/src/preproc/eqn/../../../src/include/config.h \
+  /usr/include/getopt.h /usr/include/sys/cdefs.h \
+  /usr/include/c++/v1/locale.h /usr/include/c++/v1/__config \
+  /usr/include/sys/endian.h /usr/include/sys/_types.h \
+  /usr/include/machine/_types.h /usr/include/x86/_types.h \
+  /usr/include/machine/_limits.h /usr/include/x86/_limits.h \
+  /usr/include/machine/endian.h /usr/include/x86/endian.h \
+  /usr/include/locale.h /usr/include/sys/_null.h \
+  /usr/include/xlocale/_locale.h /usr/include/c++/v1/stdio.h \
+  /usr/include/stdio.h /usr/include/c++/v1/string.h \
+  /usr/include/string.h /usr/include/strings.h \
+  /usr/include/xlocale/_strings.h /usr/include/xlocale/_string.h \
+  /usr/include/stdarg.h /usr/include/x86/stdarg.h \
+  /usr/include/sys/_stdarg.h /usr/include/c++/v1/limits.h \
+  /usr/include/limits.h /usr/include/sys/limits.h \
+  /usr/include/sys/syslimits.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/gnu/usr.bin/groff/src/preproc/eqn/../../../../../../contrib/groff/src/include/assert.h \
+  /usr/include/c++/v1/stdlib.h /usr/include/stdlib.h \
+  /usr/include/c++/v1/errno.h /usr/include/errno.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/gnu/usr.bin/groff/src/preproc/eqn/../../../../../../contrib/groff/src/include/cset.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/gnu/usr.bin/groff/src/preproc/eqn/../../../../../../contrib/groff/src/include/errarg.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/gnu/usr.bin/groff/src/preproc/eqn/../../../../../../contrib/groff/src/include/error.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/gnu/usr.bin/groff/src/preproc/eqn/../../../../../../contrib/groff/src/preproc/eqn/box.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/gnu/usr.bin/groff/src/preproc/eqn/../../../../../../contrib/groff/src/preproc/eqn/pbox.h

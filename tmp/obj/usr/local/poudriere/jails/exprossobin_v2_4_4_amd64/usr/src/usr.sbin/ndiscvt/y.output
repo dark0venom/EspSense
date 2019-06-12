@@ -1,0 +1,303 @@
+   0  $accept : inf_file $end
+
+   1  inf_file : inf_list
+   2           |
+
+   3  inf_list : inf
+   4           | inf_list inf
+
+   5  inf : SECTION EOL
+   6      | WORD EQUALS assign EOL
+   7      | WORD COMMA regkey EOL
+   8      | WORD EOL
+   9      | EOL
+
+  10  assign : WORD
+  11         | STRING
+  12         | WORD COMMA assign
+  13         | STRING COMMA assign
+  14         | COMMA assign
+  15         | COMMA
+  16         |
+
+  17  regkey : WORD
+  18         | STRING
+  19         | WORD COMMA regkey
+  20         | STRING COMMA regkey
+  21         | COMMA regkey
+  22         | COMMA
+
+state 0
+	$accept : . inf_file $end  (0)
+	inf_file : .  (2)
+
+	EOL  shift 1
+	SECTION  shift 2
+	WORD  shift 3
+	$end  reduce 2
+
+	inf_file  goto 4
+	inf_list  goto 5
+	inf  goto 6
+
+
+state 1
+	inf : EOL .  (9)
+
+	.  reduce 9
+
+
+state 2
+	inf : SECTION . EOL  (5)
+
+	EOL  shift 7
+	.  error
+
+
+state 3
+	inf : WORD . EQUALS assign EOL  (6)
+	inf : WORD . COMMA regkey EOL  (7)
+	inf : WORD . EOL  (8)
+
+	EQUALS  shift 8
+	COMMA  shift 9
+	EOL  shift 10
+	.  error
+
+
+state 4
+	$accept : inf_file . $end  (0)
+
+	$end  accept
+
+
+state 5
+	inf_file : inf_list .  (1)
+	inf_list : inf_list . inf  (4)
+
+	EOL  shift 1
+	SECTION  shift 2
+	WORD  shift 3
+	$end  reduce 1
+
+	inf  goto 11
+
+
+state 6
+	inf_list : inf .  (3)
+
+	.  reduce 3
+
+
+state 7
+	inf : SECTION EOL .  (5)
+
+	.  reduce 5
+
+
+state 8
+	inf : WORD EQUALS . assign EOL  (6)
+	assign : .  (16)
+
+	COMMA  shift 12
+	STRING  shift 13
+	WORD  shift 14
+	EOL  reduce 16
+
+	assign  goto 15
+
+
+state 9
+	inf : WORD COMMA . regkey EOL  (7)
+
+	COMMA  shift 16
+	STRING  shift 17
+	WORD  shift 18
+	.  error
+
+	regkey  goto 19
+
+
+state 10
+	inf : WORD EOL .  (8)
+
+	.  reduce 8
+
+
+state 11
+	inf_list : inf_list inf .  (4)
+
+	.  reduce 4
+
+
+12: reduce/reduce conflict (reduce 15, reduce 16) on EOL
+state 12
+	assign : COMMA . assign  (14)
+	assign : COMMA .  (15)
+	assign : .  (16)
+
+	COMMA  shift 12
+	STRING  shift 13
+	WORD  shift 14
+	EOL  reduce 15
+
+	assign  goto 20
+
+
+state 13
+	assign : STRING .  (11)
+	assign : STRING . COMMA assign  (13)
+
+	COMMA  shift 21
+	EOL  reduce 11
+
+
+state 14
+	assign : WORD .  (10)
+	assign : WORD . COMMA assign  (12)
+
+	COMMA  shift 22
+	EOL  reduce 10
+
+
+state 15
+	inf : WORD EQUALS assign . EOL  (6)
+
+	EOL  shift 23
+	.  error
+
+
+state 16
+	regkey : COMMA . regkey  (21)
+	regkey : COMMA .  (22)
+
+	COMMA  shift 16
+	STRING  shift 17
+	WORD  shift 18
+	EOL  reduce 22
+
+	regkey  goto 24
+
+
+state 17
+	regkey : STRING .  (18)
+	regkey : STRING . COMMA regkey  (20)
+
+	COMMA  shift 25
+	EOL  reduce 18
+
+
+state 18
+	regkey : WORD .  (17)
+	regkey : WORD . COMMA regkey  (19)
+
+	COMMA  shift 26
+	EOL  reduce 17
+
+
+state 19
+	inf : WORD COMMA regkey . EOL  (7)
+
+	EOL  shift 27
+	.  error
+
+
+state 20
+	assign : COMMA assign .  (14)
+
+	.  reduce 14
+
+
+state 21
+	assign : STRING COMMA . assign  (13)
+	assign : .  (16)
+
+	COMMA  shift 12
+	STRING  shift 13
+	WORD  shift 14
+	EOL  reduce 16
+
+	assign  goto 28
+
+
+state 22
+	assign : WORD COMMA . assign  (12)
+	assign : .  (16)
+
+	COMMA  shift 12
+	STRING  shift 13
+	WORD  shift 14
+	EOL  reduce 16
+
+	assign  goto 29
+
+
+state 23
+	inf : WORD EQUALS assign EOL .  (6)
+
+	.  reduce 6
+
+
+state 24
+	regkey : COMMA regkey .  (21)
+
+	.  reduce 21
+
+
+state 25
+	regkey : STRING COMMA . regkey  (20)
+
+	COMMA  shift 16
+	STRING  shift 17
+	WORD  shift 18
+	.  error
+
+	regkey  goto 30
+
+
+state 26
+	regkey : WORD COMMA . regkey  (19)
+
+	COMMA  shift 16
+	STRING  shift 17
+	WORD  shift 18
+	.  error
+
+	regkey  goto 31
+
+
+state 27
+	inf : WORD COMMA regkey EOL .  (7)
+
+	.  reduce 7
+
+
+state 28
+	assign : STRING COMMA assign .  (13)
+
+	.  reduce 13
+
+
+state 29
+	assign : WORD COMMA assign .  (12)
+
+	.  reduce 12
+
+
+state 30
+	regkey : STRING COMMA regkey .  (20)
+
+	.  reduce 20
+
+
+state 31
+	regkey : WORD COMMA regkey .  (19)
+
+	.  reduce 19
+
+
+State 12 contains 1 reduce/reduce conflict.
+
+
+8 terminals, 6 nonterminals
+23 grammar rules, 32 states

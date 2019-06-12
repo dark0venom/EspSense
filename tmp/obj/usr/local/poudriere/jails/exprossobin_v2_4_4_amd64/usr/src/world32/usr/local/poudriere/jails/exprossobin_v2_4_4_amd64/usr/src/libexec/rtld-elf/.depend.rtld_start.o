@@ -1,0 +1,2 @@
+rtld_start.o: \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/libexec/rtld-elf/i386/rtld_start.S

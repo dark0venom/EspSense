@@ -1,0 +1,2 @@
+ extern ld_emulation_xfer_type ld_elf_x86_64_fbsd_emulation; extern ld_emulation_xfer_type ld_elf_i386_fbsd_emulation;
+#define EMULATION_LIST  &ld_elf_x86_64_fbsd_emulation, &ld_elf_i386_fbsd_emulation, 0

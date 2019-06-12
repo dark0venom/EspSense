@@ -1,0 +1,23 @@
+mdoc_macro.o: \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/contrib/mdocml/mdoc_macro.c \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/contrib/mdocml/config.h \
+  /usr/include/sys/types.h /usr/include/sys/cdefs.h \
+  /usr/include/machine/endian.h /usr/include/x86/endian.h \
+  /usr/include/sys/_types.h /usr/include/machine/_types.h \
+  /usr/include/x86/_types.h /usr/include/machine/_limits.h \
+  /usr/include/x86/_limits.h /usr/include/sys/_pthreadtypes.h \
+  /usr/include/sys/_stdint.h /usr/include/sys/select.h \
+  /usr/include/sys/_sigset.h /usr/include/sys/_timeval.h \
+  /usr/include/sys/timespec.h /usr/include/sys/_timespec.h \
+  /usr/include/assert.h /usr/include/ctype.h /usr/include/_ctype.h \
+  /usr/include/runetype.h /usr/include/xlocale/_ctype.h \
+  /usr/include/stdlib.h /usr/include/sys/_null.h /usr/include/stdio.h \
+  /usr/include/string.h /usr/include/strings.h \
+  /usr/include/xlocale/_strings.h /usr/include/xlocale/_string.h \
+  /usr/include/time.h /usr/include/xlocale/_time.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/contrib/mdocml/mandoc.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/contrib/mdocml/roff.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/contrib/mdocml/mdoc.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/contrib/mdocml/libmandoc.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/contrib/mdocml/roff_int.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/contrib/mdocml/libmdoc.h

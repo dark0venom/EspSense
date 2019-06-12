@@ -1,0 +1,29 @@
+nm.o: \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/contrib/elftoolchain/nm/nm.c \
+  /usr/include/sys/queue.h /usr/include/sys/cdefs.h \
+  /usr/include/sys/types.h /usr/include/machine/endian.h \
+  /usr/include/x86/endian.h /usr/include/sys/_types.h \
+  /usr/include/machine/_types.h /usr/include/x86/_types.h \
+  /usr/include/machine/_limits.h /usr/include/x86/_limits.h \
+  /usr/include/sys/_pthreadtypes.h /usr/include/sys/_stdint.h \
+  /usr/include/sys/select.h /usr/include/sys/_sigset.h \
+  /usr/include/sys/_timeval.h /usr/include/sys/timespec.h \
+  /usr/include/sys/_timespec.h /usr/include/sys/stat.h \
+  /usr/include/sys/time.h /usr/include/time.h /usr/include/sys/_null.h \
+  /usr/include/xlocale/_time.h /usr/include/ar.h /usr/include/assert.h \
+  /usr/include/ctype.h /usr/include/_ctype.h /usr/include/runetype.h \
+  /usr/include/xlocale/_ctype.h /usr/include/dwarf.h /usr/include/err.h \
+  /usr/include/errno.h /usr/include/fcntl.h /usr/include/gelf.h \
+  /usr/include/libelf.h /usr/include/sys/elf32.h \
+  /usr/include/sys/elf_common.h /usr/include/sys/elf64.h \
+  /usr/include/getopt.h /usr/include/inttypes.h \
+  /usr/include/machine/_inttypes.h /usr/include/x86/_inttypes.h \
+  /usr/include/sys/stdint.h /usr/include/machine/_stdint.h \
+  /usr/include/x86/_stdint.h /usr/include/libdwarf.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/contrib/elftoolchain/libelftc/libelftc.h \
+  /usr/include/stdbool.h /usr/include/stdio.h /usr/include/stdlib.h \
+  /usr/include/string.h /usr/include/strings.h \
+  /usr/include/xlocale/_strings.h /usr/include/xlocale/_string.h \
+  /usr/include/unistd.h /usr/include/sys/unistd.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/contrib/elftoolchain/common/_elftc.h \
+  /usr/include/osreldate.h /usr/include/sys/endian.h

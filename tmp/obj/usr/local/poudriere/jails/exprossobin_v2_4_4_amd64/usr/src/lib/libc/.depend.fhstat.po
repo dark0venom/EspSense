@@ -1,0 +1,6 @@
+fhstat.po: fhstat.S \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/lib/libc/include/compat.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/lib/libc/amd64/SYS.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/include/sys/syscall.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/include/machine/asm.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/include/sys/cdefs.h

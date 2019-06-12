@@ -1,0 +1,19 @@
+quirks.po: \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/lib/libkiconv/quirks.c \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/sys/sys/types.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/sys/sys/cdefs.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/include/machine/endian.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/include/x86/endian.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/sys/sys/_types.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/include/machine/_types.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/include/x86/_types.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/include/machine/_limits.h \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/include/x86/_limits.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/sys/sys/_pthreadtypes.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/sys/sys/_stdint.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/sys/sys/select.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/sys/sys/_sigset.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/sys/sys/_timeval.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/sys/sys/timespec.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/sys/sys/_timespec.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/sys/sys/iconv.h

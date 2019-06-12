@@ -1,0 +1,6 @@
+>>> Building exprossobin kernel.
+>>> Tue Jun 11 15:28:40 EDT 2019 - Starting build kernel for amd64 architecture...
+====>> ERROR: __MAKE_CONF is pointing to a nonexistent file /usr/expressobin/expressobin/tmp/FreeBSD-src/release/conf/exprossobin_make.conf
+>>> Building exprossobin kernel.
+>>> Tue Jun 11 17:04:47 EDT 2019 - Starting build kernel for amd64 architecture...
+====>> ERROR: __MAKE_CONF is pointing to a nonexistent file /usr/expressobin/expressobin/tmp/FreeBSD-src/release/conf/exprossobin_make.conf

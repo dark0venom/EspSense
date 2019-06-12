@@ -1,0 +1,1 @@
+../../../sys/amd64/include/acpica_machdep.h

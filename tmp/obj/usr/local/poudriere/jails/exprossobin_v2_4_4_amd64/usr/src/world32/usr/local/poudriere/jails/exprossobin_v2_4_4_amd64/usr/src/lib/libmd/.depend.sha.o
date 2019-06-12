@@ -1,0 +1,2 @@
+sha.o: \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/lib/libmd/i386/sha.S

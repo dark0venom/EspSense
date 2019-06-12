@@ -1,0 +1,13 @@
+hypot.o: \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/gnu/usr.bin/groff/src/libs/libgroff/../../../../../../contrib/groff/src/libs/libgroff/hypot.cpp \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/gnu/usr.bin/groff/src/libs/libgroff/../../../src/include/config.h \
+  /usr/include/c++/v1/math.h /usr/include/c++/v1/__config \
+  /usr/include/sys/endian.h /usr/include/sys/cdefs.h \
+  /usr/include/sys/_types.h /usr/include/machine/_types.h \
+  /usr/include/x86/_types.h /usr/include/machine/_limits.h \
+  /usr/include/x86/_limits.h /usr/include/machine/endian.h \
+  /usr/include/x86/endian.h /usr/include/math.h \
+  /usr/include/c++/v1/type_traits /usr/include/c++/v1/cstddef \
+  /usr/include/stddef.h /usr/include/sys/_null.h \
+  /usr/include/c++/v1/__nullptr /usr/include/c++/v1/limits \
+  /usr/include/c++/v1/__undef_macros

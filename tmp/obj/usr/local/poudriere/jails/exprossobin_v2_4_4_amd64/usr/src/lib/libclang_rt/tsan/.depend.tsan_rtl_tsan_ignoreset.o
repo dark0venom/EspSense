@@ -1,0 +1,9 @@
+tsan/rtl/tsan_ignoreset.o: \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/contrib/compiler-rt/lib/tsan/rtl/tsan_ignoreset.cc \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/contrib/compiler-rt/lib/tsan/rtl/tsan_ignoreset.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/contrib/compiler-rt/lib/tsan/rtl/tsan_defs.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/contrib/compiler-rt/lib/sanitizer_common/sanitizer_internal_defs.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/contrib/compiler-rt/lib/sanitizer_common/sanitizer_platform.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/contrib/compiler-rt/lib/sanitizer_common/sanitizer_libc.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/contrib/compiler-rt/lib/tsan/rtl/tsan_stat.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/contrib/compiler-rt/lib/ubsan/ubsan_platform.h

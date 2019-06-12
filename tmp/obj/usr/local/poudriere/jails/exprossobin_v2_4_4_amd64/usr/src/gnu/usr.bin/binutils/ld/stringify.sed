@@ -1,0 +1,1 @@
+/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/gnu/usr.bin/binutils/ld/../../../../contrib/binutils/ld/emultempl/astring.sed

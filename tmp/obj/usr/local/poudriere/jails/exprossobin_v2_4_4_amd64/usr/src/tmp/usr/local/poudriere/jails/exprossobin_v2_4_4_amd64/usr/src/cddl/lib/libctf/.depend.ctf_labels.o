@@ -1,0 +1,39 @@
+ctf_labels.o: \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/cddl/contrib/opensolaris/common/ctf/ctf_labels.c \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/cddl/lib/libctf/../../../cddl/contrib/opensolaris/common/ctf/ctf_impl.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/sys/cddl/compat/opensolaris/sys/types.h \
+  /usr/include/sys/stdint.h /usr/include/sys/cdefs.h \
+  /usr/include/sys/_types.h /usr/include/machine/_types.h \
+  /usr/include/x86/_types.h /usr/include/machine/_limits.h \
+  /usr/include/x86/_limits.h /usr/include/machine/_stdint.h \
+  /usr/include/x86/_stdint.h /usr/include/sys/_stdint.h \
+  /usr/include/sys/types.h /usr/include/machine/endian.h \
+  /usr/include/x86/endian.h /usr/include/sys/_pthreadtypes.h \
+  /usr/include/sys/select.h /usr/include/sys/_sigset.h \
+  /usr/include/sys/_timeval.h /usr/include/sys/timespec.h \
+  /usr/include/sys/_timespec.h /usr/include/sys/errno.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/cddl/lib/libctf/../../../sys/cddl/contrib/opensolaris/uts/common/sys/sysmacros.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/sys/cddl/compat/opensolaris/sys/param.h \
+  /usr/include/sys/param.h /usr/include/sys/_null.h \
+  /usr/include/sys/syslimits.h /usr/include/sys/signal.h \
+  /usr/include/machine/signal.h /usr/include/x86/signal.h \
+  /usr/include/machine/param.h /usr/include/machine/_align.h \
+  /usr/include/x86/_align.h /usr/include/sys/limits.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/cddl/lib/libctf/../../../sys/cddl/contrib/opensolaris/uts/common/sys/isa_defs.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/cddl/lib/libctf/../../../sys/cddl/contrib/opensolaris/uts/common/sys/ctf_api.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/sys/cddl/compat/opensolaris/sys/elf.h \
+  /usr/include/sys/elf.h /usr/include/machine/elf.h \
+  /usr/include/x86/elf.h /usr/include/sys/elf32.h \
+  /usr/include/sys/elf_common.h /usr/include/sys/elf64.h \
+  /usr/include/sys/elf_generic.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/cddl/lib/libctf/../../../sys/cddl/contrib/opensolaris/uts/common/sys/ctf.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/cddl/compat/opensolaris/include/strings.h \
+  /usr/include/strings.h /usr/include/xlocale/_strings.h \
+  /usr/include/string.h /usr/include/xlocale/_string.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/cddl/compat/opensolaris/include/stdlib.h \
+  /usr/include/stdlib.h /usr/include/stdarg.h /usr/include/x86/stdarg.h \
+  /usr/include/sys/_stdarg.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/cddl/compat/opensolaris/include/stdio.h \
+  /usr/include/stdio.h /usr/include/limits.h /usr/include/ctype.h \
+  /usr/include/_ctype.h /usr/include/runetype.h \
+  /usr/include/xlocale/_ctype.h

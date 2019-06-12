@@ -1,0 +1,3 @@
+config_win.o: \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/contrib/subversion/subversion/libsvn_subr/config_win.c \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/usr.bin/svn/lib/libsvn_subr/../../svn_private_config.h

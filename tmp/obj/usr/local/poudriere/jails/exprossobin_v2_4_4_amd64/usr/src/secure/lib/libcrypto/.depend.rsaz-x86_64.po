@@ -1,0 +1,2 @@
+rsaz-x86_64.po: \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/secure/lib/libcrypto/amd64/rsaz-x86_64.S

@@ -1,0 +1,11 @@
+xatexit.o: \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/gnu/usr.bin/binutils/libiberty/../../../../contrib/binutils/libiberty/xatexit.c \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/gnu/usr.bin/binutils/libiberty/config.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/gnu/usr.bin/binutils/libiberty/../../../../contrib/binutils/include/ansidecl.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/gnu/usr.bin/binutils/libiberty/../../../../contrib/binutils/include/libiberty.h \
+  /usr/include/stddef.h /usr/include/sys/cdefs.h \
+  /usr/include/sys/_null.h /usr/include/sys/_types.h \
+  /usr/include/machine/_types.h /usr/include/x86/_types.h \
+  /usr/include/machine/_limits.h /usr/include/x86/_limits.h \
+  /usr/include/stdarg.h /usr/include/x86/stdarg.h \
+  /usr/include/sys/_stdarg.h /usr/include/stdio.h /usr/include/libgen.h

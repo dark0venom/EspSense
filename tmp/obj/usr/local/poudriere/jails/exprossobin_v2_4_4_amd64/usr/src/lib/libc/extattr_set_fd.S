@@ -1,0 +1,4 @@
+#include "compat.h"
+#include "SYS.h"
+RSYSCALL(extattr_set_fd)
+	.section .note.GNU-stack,"",%progbits

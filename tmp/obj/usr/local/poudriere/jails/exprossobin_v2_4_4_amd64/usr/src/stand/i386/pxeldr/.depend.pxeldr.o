@@ -1,0 +1,4 @@
+pxeldr.o: \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/stand/i386/pxeldr/pxeldr.S \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/sys/sys/reboot.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/stand/i386/common/bootargs.h

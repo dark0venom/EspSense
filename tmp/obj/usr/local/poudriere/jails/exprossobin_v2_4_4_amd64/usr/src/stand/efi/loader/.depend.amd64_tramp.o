@@ -1,0 +1,4 @@
+amd64_tramp.o: \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/stand/efi/loader/arch/amd64/amd64_tramp.S \
+  /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/stand/libsa/machine/asmacros.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/sys/sys/cdefs.h

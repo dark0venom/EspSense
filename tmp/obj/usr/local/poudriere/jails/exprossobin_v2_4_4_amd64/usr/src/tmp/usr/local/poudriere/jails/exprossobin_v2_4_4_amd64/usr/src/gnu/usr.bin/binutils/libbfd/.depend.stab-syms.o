@@ -1,0 +1,9 @@
+stab-syms.o: \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/gnu/usr.bin/binutils/libbfd/../../../../contrib/binutils/bfd/stab-syms.c \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/gnu/usr.bin/binutils/libbfd/bfd.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/gnu/usr.bin/binutils/libbfd/../../../../contrib/binutils/include/ansidecl.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/gnu/usr.bin/binutils/libbfd/../../../../contrib/binutils/include/symcat.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/gnu/usr.bin/binutils/libbfd/../../../../contrib/binutils/bfd/libaout.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/gnu/usr.bin/binutils/libbfd/../../../../contrib/binutils/include/bfdlink.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/gnu/usr.bin/binutils/libbfd/../../../../contrib/binutils/include/aout/aout64.h \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/gnu/usr.bin/binutils/libbfd/../../../../contrib/binutils/include/aout/stab.def

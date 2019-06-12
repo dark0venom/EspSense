@@ -1,0 +1,3 @@
+autoload.pico: \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/stand/userboot/userboot/autoload.c \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/sys/sys/cdefs.h

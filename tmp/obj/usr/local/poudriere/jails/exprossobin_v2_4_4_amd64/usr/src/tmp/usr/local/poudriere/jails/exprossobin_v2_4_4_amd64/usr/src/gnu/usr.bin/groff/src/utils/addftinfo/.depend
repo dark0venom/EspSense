@@ -1,0 +1,2 @@
+addftinfo.full: /usr/lib/libc.a /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/gnu/usr.bin/groff/src/utils/addftinfo/../../../src/libs/libgroff/libgroff.a /usr/expressobin/expressobin/tmp/obj/usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/tmp/legacy/usr/lib/libegacy.a
+addftinfo.full: /usr/lib/libc++.a

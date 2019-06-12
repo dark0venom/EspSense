@@ -1,0 +1,4 @@
+#include "compat.h"
+#include "SYS.h"
+RSYSCALL(__mac_set_proc)
+	.section .note.GNU-stack,"",%progbits

@@ -1,0 +1,2 @@
+common.o: \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/gnu/usr.bin/groff/src/libs/libbib/../../../../../../contrib/groff/src/libs/libbib/common.cpp

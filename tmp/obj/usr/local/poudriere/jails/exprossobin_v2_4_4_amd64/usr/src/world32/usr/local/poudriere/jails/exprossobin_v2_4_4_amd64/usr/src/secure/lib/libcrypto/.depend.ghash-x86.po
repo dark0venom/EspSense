@@ -1,0 +1,2 @@
+ghash-x86.po: \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/secure/lib/libcrypto/i386/ghash-x86.S

@@ -1,0 +1,3 @@
+opensolaris_atomic.pico: \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/sys/cddl/contrib/opensolaris/common/atomic/amd64/opensolaris_atomic.S \
+  /usr/local/poudriere/jails/exprossobin_v2_4_4_amd64/usr/src/sys/cddl/contrib/opensolaris/uts/common/sys/asm_linkage.h

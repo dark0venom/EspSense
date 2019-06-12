@@ -1,0 +1,25 @@
+# EUC
+cn-gb                           EUC-CN
+csgb3212                        EUC-CN
+euccn                           EUC-CN
+gb2312                          EUC-CN
+cseucpkdfmtjapanese             EUC-JP
+eucjp                           EUC-JP
+ibm-eucjp                       EUC-JP
+eucjp-ms                        EUC-JP-MS
+eucjp-open                      EUC-JP-MS
+eucjp-win                       EUC-JP-MS
+eucjpms                         EUC-JP-MS
+euc-jisx0213                    EUC-JIS-2004
+cseuckr                         EUC-KR
+csksc56011987                   EUC-KR
+euckr                           EUC-KR
+iso-ir-149                      EUC-KR
+korean                          EUC-KR
+ks_c_5601-1987                  EUC-KR
+ks_c_5601-1989                  EUC-KR
+ksc_5601                        EUC-KR
+cns11643                        EUC-TW
+cseuctw                         EUC-TW
+euctw                           EUC-TW
+
